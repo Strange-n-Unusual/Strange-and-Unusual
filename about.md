@@ -3,4 +3,4 @@ layout: page
 title: Share your tales
 ---
 
-feel free to send me your story at feli.s@seznam.cz
+I love to gather all kinds of strange stories, possibly including yours! If you've got a tale to tell, send it my way at feli.s@seznam.cz
