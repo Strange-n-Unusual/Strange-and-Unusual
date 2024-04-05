@@ -15,7 +15,7 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My blog'
+title: 'Strange and Unusual'
 description: 'This is my new blog'
 permalink: pretty
 
