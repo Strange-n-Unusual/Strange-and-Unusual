@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: contacts
 ---
 
-I'm not sure yet what this blog is about, but I'm sure I'll work it out soon.
+feel free to send me your story at feli.s@seznam.cz
